@@ -1,0 +1,25 @@
+h1{
+    color: rgb(247, 246, 143);
+    font-size: 75px;
+    text-align: center;
+
+}
+
+p{
+    color:  rgb(9, 61, 15);
+    font-size: 50px;
+    text-wrap: wrap;
+    text-align: center
+
+}
+
+#photo{
+    float: left;
+    text-wrap: wrap;
+    height: 750px;
+    width: 1000px;
+}
+
+*{
+    background-color: rgba(255, 200, 224, 0.75)
+}
